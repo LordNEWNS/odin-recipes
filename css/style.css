@@ -16,6 +16,7 @@ body {
     padding-top: 10px;
     padding-bottom: 70px;
     line-height: 1.5;
+
 }
 
 h1 {
@@ -28,6 +29,7 @@ h1 {
     background-color: rgb(179, 145, 103);
     color: white;
     font-weight: bold;
+    margin-top: 0;
 }
 
 .home-button {
@@ -54,11 +56,16 @@ h1 {
     border-width: 3px;
     display: block;
     overflow: hidden;
-    
-}
+    }
 
 .icon-container {
     min-height: 30px;
     min-width: 30px;
     background-color: rgba(240, 248, 255, 0);
+}
+
+h2 {
+    background-color: rgb(179, 145, 103);
+    color: white;
+    font-weight: bold;
 }
