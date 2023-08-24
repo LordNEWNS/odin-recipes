@@ -1,5 +1,36 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {  
+    display: table-cell;
+    vertical-align: middle;
+    background-color: rgb(230, 215, 196);
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+
 h1 {
     font-weight: bold;
     font-size: 36px;
     color: crimson;
 }
+
+h2 {
+    background-color: rgb(179, 145, 103);
+    color: white;
+    font-weight: bold;
+}
+
+.home-button {
+    background-color: rgb(10, 76, 121);
+    color: white;
+
+}
+
