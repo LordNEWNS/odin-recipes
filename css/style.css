@@ -29,15 +29,14 @@ h2 {
 }
 
 .home-button {
-    background-color: rgb(10, 76, 121);
+    background-color: rgb(138, 62, 0);
     color: white;
 
 }
 
 .icon {
     width: 30px;
+    height: auto;
 }
 
-div .icon {
-    
-}
+
