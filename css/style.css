@@ -11,9 +11,11 @@ html {
 body {  
     display: table-cell;
     vertical-align: middle;
+    max-width: 960px;
     background-color: rgb(230, 215, 196);
     padding-top: 10px;
     padding-bottom: 70px;
+    line-height: 1.5;
 }
 
 h1 {
