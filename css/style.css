@@ -3,6 +3,10 @@
     
 }
 
+img.display-image {
+    padding-bottom: 10px;
+}
+
 html {
     display: table;
     margin: auto;
