@@ -3,9 +3,7 @@
     
 }
 
-img.display-image {
-    padding-bottom: 10px;
-}
+
 
 html {
     display: table;
@@ -60,6 +58,7 @@ h1 {
     border-width: 3px;
     display: block;
     overflow: hidden;
+    margin-top: 10px;
     }
 
 .icon-container {
